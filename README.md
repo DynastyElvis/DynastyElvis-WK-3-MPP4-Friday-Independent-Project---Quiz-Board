@@ -20,6 +20,11 @@ CSS - For styling the webpage.
 ## Contributing
 Pull requests are welcomed. Currently the major contributors are Moringa School, Moses Karani.
 
+
+## Web Design
+https://www.figma.com/file/zB28oA6WVHeI3bA90ybnci/Untitled?node-id=0
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
