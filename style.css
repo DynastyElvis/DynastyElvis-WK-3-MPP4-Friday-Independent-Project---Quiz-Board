@@ -1,0 +1,110 @@
+  /* KIPKEMOI RONO ELVIS
+  
+  
+  MORINGA SCHOOL
+
+   ACCESS PROGRAM MPP4 
+
+   SOFTWARE DEVELOPMENT
+   
+   CSS FILE TO DISPLAY THE QUIZ BOARD PROJECT 
+   */
+
+
+     /*In the context of starting an after-school computer club, 
+     a website on which students may take the exam is required. They will
+      respond to the website's multiple-choice questions, and after submitting their
+       answers, they will receive a score on the site.
+  */
+
+
+    /* : THE BEGGINING ; */
+.ELVIS {
+display: flex;   /* DISPLAY ; */
+
+flex-wrap: wrap;
+justify-content: center;
+font-family: 'Spectral', serif;
+font-style: normal;
+
+
+}
+  /* IMAGE 1 ; */
+.img1 {
+height: 150px;
+}
+  /*  IMAGE 2; */
+
+
+
+.img2 {
+height: 150px;
+float: right;
+}
+.one {
+display: flex;
+justify-content: center;
+font-family: 'Spectral', serif;
+font-style: normal;
+}  /*  HEADER BELOW */
+
+.header {
+background: linear-gradient(111.6deg, rgba(248, 248, 246, 0.5) 40.72%, rgba(252, 251, 250, 0) 64.18%), rgba(251, 252, 248, 0.5);
+}   /*  BACKGROUND ORIENTATION OF DISPLAY; */
+s
+.ELVIS {
+font-family: 'Spectral', serif;
+font-style: normal;
+font-weight: normal;
+text-decoration-line: underline;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+margin-top: 10px;
+}
+#qz {   /*  STILL BACKGROUND; */
+
+background: rgba(245, 243, 125, 0.31);
+font-family: elvis;
+font-style: normal;
+font-weight: normal;
+}
+
+
+.ELVIS   /*  TEXT DECORATION; */
+{
+text-decoration: underline;
+}
+#submit-btn {   /* SUBMISSION BUTTON ; */
+
+background-color: #f2eb90;
+border-radius: 20px;
+color: rgb(238, 28, 28);
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+
+}
+  /* FLEX DIRECTION */
+
+
+.container {
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+}
+
+  /*  RESULTS TO DISPLAY */
+  /*  DESIGN AT THE END */
+
+
+#result {
+border: 1px solid rgb(224, 24, 24);
+background-color: #ffef0b;
+color: rgb(14, 2, 2);
+}
+
+  /*  THIS IS TYHE END OF THE CSS FRONTVIEW DISPLAY OF TH PROGRAM */
+  /*  KIPKEMOI RONO */
+
+

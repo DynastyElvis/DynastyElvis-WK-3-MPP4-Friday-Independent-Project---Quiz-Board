@@ -1,27 +1,9 @@
-## Friday: Independent Project - Quiz Board
-
-## KIPKEMOI RONO ELVIS
-MORINGA SCHOOL MPP4 ACCESS
-SOFTWARE DEVELOPMENT
-
-## DESCRIPTION OF THE PROJECT
-
-In the context of starting an after-school computer club, a website on which students may take the exam is required. They will respond to the website's multiple-choice questions, and after submitting their answers, they will receive a score on the site.
-
-## Installation
-
-Installation is simple:
-Open your browser and type in the link address to the bquiz board
-
-## Technologies used 
-HTML\javascript
-CSS - For styling the webpage.
-
-## Contributing
-Pull requests are welcomed. Currently the major contributors are Moringa School, Moses Karani.
-
 ## License
+
+
 [MIT](https://choosealicense.com/licenses/mit/)
+
+The license is open source. The GNU General Public License (GPL), GNU Lesser General Public License (LGPL), Mozilla Public License (MPL), BSD licenses, the Artistic License, the Netscape Public License, the Sun Community Source License (SCSL), the Sun Industry Standards Source License (SISSL), and the Apache License are all examples of approved "open source licenses" on www.opensource.org.
 
 OPEN SOURSE
 
@@ -46,3 +28,7 @@ Additional Info:
 * To the fullest extent authorized by relevant law, the person who associated a work with this deed makes no assurances regarding the work and disclaims liability for any uses of the work.
 
 * You should not imply author or affirmer approval when using or citing the work.
+
+## KIPKEMOI RONO ELVIS
+MORINGA SCHOOL MPP4 ACCESS
+SOFTWARE DEVELOPMENT
