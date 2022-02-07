@@ -23,6 +23,8 @@ Pull requests are welcomed. Currently the major contributors are Moringa School,
 
 ## Web Design
 
+https://www.figma.com/file/xhRQZl1BSRx4qDZC8bGuE7/Friday%3A-Independent-Project---Quiz-Board?node-id=0%3A1
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
