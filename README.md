@@ -18,7 +18,7 @@ HTML\javascript
 CSS - For styling the webpage.
 
 ## Contributing
-Pull requests are welcomed. Currently the major contributors are Moringa School, Moses Karani.
+Pull requests are welcomed. Currently the major contributors are Moringa School, KIPKEMOI RONO ELVIS
 
 
 ## Web Design
